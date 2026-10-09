@@ -1,0 +1,14 @@
+**/build/
+**/.Xil/
+**/*.cache/
+**/*.runs/
+**/*.sim/
+*.vvp
+*.vcd
+*.wdb
+*.jou
+*.log
+*.pb
+*.bit
+Thumbs.db
+Desktop.ini
